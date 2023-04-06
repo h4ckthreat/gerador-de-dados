@@ -1,4 +1,4 @@
-# <i>Gerador de dados (CPF, CNPJ, TITULO ELEITORAIL)</i>👨🏻‍💻
+# <i>Gerador de dados (CPF, CNPJ, TITULO ELEITORAL)</i>👨🏻‍💻
 <p align="justify">Sofware gerador de dados aleatórios (CPF, CNPJ, TITULO ELEITORAL)</p>
 
 <h4 align="center">
